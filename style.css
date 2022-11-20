@@ -14,8 +14,13 @@ td{
     border: 1px solid;
 }
 
-#center,center2{
+#center,#center2{
     background-color: orange;
     border-radius: 100%;
 
+}
+button{
+    height: 50px;
+    width: 50px;
+    
 }
